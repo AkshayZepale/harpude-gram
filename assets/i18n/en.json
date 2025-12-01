@@ -21,7 +21,10 @@
     "LEARN_MORE": "Learn More",
     "VIEW_GALLERY": "View Gallery",
     "VIEW_ALL_OFFICERS": "View All Officers",
-    "READ_MORE": "Read More"
+    "READ_MORE": "Read More",
+    "VIEW_ALL_SERVICES": "View Services",
+    "VIEW_ALL_SCHEMES": "View Schemes",
+    "VIEW_ALL_BLOGS": "View Blogs"
   },
   "SERVICES": {
     "TITLE": "Citizen Services",

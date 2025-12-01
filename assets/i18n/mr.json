@@ -21,7 +21,10 @@
     "LEARN_MORE": "अधिक जाणून घ्या",
     "VIEW_GALLERY": "गॅलरी पहा",
     "VIEW_ALL_OFFICERS": "सर्व अधिकारी पहा",
-    "READ_MORE": "वाचा"
+    "READ_MORE": "वाचा",
+    "VIEW_ALL_SERVICES": "सर्व सेवा पहा",
+    "VIEW_ALL_SCHEMES": "सर्व योजना पहा",
+    "VIEW_ALL_BLOGS": "सर्व ब्लॉग पहा"
   },
   "SERVICES": {
     "TITLE": "नागरिक सेवा",
