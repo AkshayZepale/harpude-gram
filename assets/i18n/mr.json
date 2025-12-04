@@ -24,7 +24,9 @@
     "READ_MORE": "वाचा",
     "VIEW_ALL_SERVICES": "सर्व सेवा पहा",
     "VIEW_ALL_SCHEMES": "सर्व योजना पहा",
-    "VIEW_ALL_BLOGS": "सर्व ब्लॉग पहा"
+    "VIEW_ALL_BLOGS": "सर्व ब्लॉग पहा",
+    "DOWNLOAD": "डाउनलोड करा",
+    "View PDF": "पीडीएफ पहा"
   },
   "SERVICES": {
     "TITLE": "नागरिक सेवा",

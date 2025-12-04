@@ -24,7 +24,9 @@
     "READ_MORE": "Read More",
     "VIEW_ALL_SERVICES": "View Services",
     "VIEW_ALL_SCHEMES": "View Schemes",
-    "VIEW_ALL_BLOGS": "View Blogs"
+    "VIEW_ALL_BLOGS": "View Blogs",
+    "DOWNLOAD": "Download",
+    "View PDF": "View PDF"
   },
   "SERVICES": {
     "TITLE": "Citizen Services",

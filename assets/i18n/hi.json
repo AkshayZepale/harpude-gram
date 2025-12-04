@@ -24,7 +24,9 @@
     "READ_MORE": "पढ़ें",
     "VIEW_ALL_SERVICES": "सभी सेवाएं देखें",
     "VIEW_ALL_SCHEMES": "सभी योजनाएं देखें",
-    "VIEW_ALL_BLOGS": "सभी ब्लॉग देखें"
+    "VIEW_ALL_BLOGS": "सभी ब्लॉग देखें",
+    "DOWNLOAD": "डाउनलोड करें",
+    "View PDF": "पीडीएफ देखें"
   },
   "SERVICES": {
     "TITLE": "नागरिक सेवाएं",
