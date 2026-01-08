@@ -7,8 +7,7 @@
     "SCHEMES": "Schemes",
     "GALLERY": "Photo Gallery",
     "OFFICERS": "Officers",
-    "BLOGS": "Blogs",
-    "FEEDBACK": "Feedback"
+    "BLOGS": "Blogs"
   },
   "HOME": {
     "SERVICES_TITLE": "Citizen Services",
@@ -84,8 +83,7 @@
     "NAME": "Name",
     "EMAIL": "Email",
     "MESSAGE": "Message",
-    "SUBMIT": "Submit",
-    "CANCEL": "Cancel"
+    "SUBMIT": "Submit"
   }
 }
 

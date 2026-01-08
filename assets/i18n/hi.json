@@ -1,14 +1,13 @@
 {
   "NAVBAR": {
     "TITLE": "पुर ग्राम पंचायत",
-    "HOME": "मुखपृष्ठ",
+    "HOME": "होम",
     "SERVICES": "नागरिक सेवाएं",
     "NOTICES": "सूचना पट्ट",
     "SCHEMES": "योजनाएं",
     "GALLERY": "फोटो गैलरी",
     "OFFICERS": "अधिकारी",
-    "BLOGS": "ब्लॉग",
-    "FEEDBACK": "प्रतिक्रिया"
+    "BLOGS": "ब्लॉग"
   },
   "HOME": {
     "SERVICES_TITLE": "नागरिक सेवाएं",
@@ -84,8 +83,7 @@
     "NAME": "नाम",
     "EMAIL": "ईमेल",
     "MESSAGE": "संदेश",
-    "SUBMIT": "जमा करें",
-    "CANCEL": "रद्द करें"
+    "SUBMIT": "जमा करें"
   }
 }
 

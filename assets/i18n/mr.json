@@ -7,8 +7,7 @@
     "SCHEMES": "योजना",
     "GALLERY": "फोटो गॅलरी",
     "OFFICERS": "अधिकारी",
-    "BLOGS": "ब्लॉग",
-    "FEEDBACK": "अभिप्राय"
+    "BLOGS": "ब्लॉग"
   },
   "HOME": {
     "SERVICES_TITLE": "नागरिक सेवा",
@@ -84,8 +83,7 @@
     "NAME": "नाव",
     "EMAIL": "ईमेल",
     "MESSAGE": "संदेश",
-    "SUBMIT": "सबमिट करा",
-    "CANCEL": "रद्द करा"
+    "SUBMIT": "सबमिट करा"
   }
 }
 
